@@ -1,0 +1,8 @@
+{
+	"clips":[
+		{"?":"00","path":"Audio/01_BG_01","volume":1},
+		{"?":"01","path":"Audio/02_BG_02","volume":1},
+		{"?":"02","path":"Audio/03_Sound_Effect_01","volume":1},
+		{"?":"03","path":"Audio/04_Sound_Effect_02","volume":1}
+	]
+}
